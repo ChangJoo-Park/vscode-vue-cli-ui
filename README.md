@@ -1,5 +1,7 @@
 # vscode-vue-ui README
 
+![Vue CLI UI](https://i.imgur.com/61uX9qX.gif)
+
 This is the README for your extension "vscode-vue-ui". After writing up a brief description, we recommend including the following sections.
 
 ## Features
